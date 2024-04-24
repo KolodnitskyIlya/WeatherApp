@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 40.3242,
+        "lat": 74.9885
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": -0.01,
+        "feels_like": -4.3,
+        "temp_min": -0.01,
+        "temp_max": -0.01,
+        "pressure": 1028,
+        "humidity": 43
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4,
+        "deg": 60
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1713969597,
+    "sys": {
+        "type": 1,
+        "id": 8960,
+        "country": "RU",
+        "sunrise": 1713915704,
+        "sunset": 1713968853
+    },
+    "timezone": 21600,
+    "id": 7076382,
+    "name": "Sadovyy",
+    "cod": 200
+}
